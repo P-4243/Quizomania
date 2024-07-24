@@ -1,0 +1,108 @@
+body{
+ /* background-color:#361B6B; */
+  background-image:url("https://static.vecteezy.com/system/resources/previews/003/150/101/original/wood-texture-background-free-vector.jpg");
+  background-repeat:no-repeat; 
+  background-attachment:fixed;
+  background-size:cover;
+
+  width:100%;
+}
+
+.cont1{
+  background-color:;
+  width:900px;
+  display:flex;
+  flex-direction:row;
+  margin-left:50px;
+  color:white;
+  margin-top:0px;
+
+}
+#one{
+  font-size:80px;
+  margin-top:100px;
+  margin-left:500px;
+  margin-top:700px;
+  font-style:italic;
+  font-weight:bold;
+}
+
+#onee{
+  display:flex;
+  margin-left:600px;
+  margin-top:100px;
+  padding:30px;
+  width:300px;
+  height:50px;
+  background-color:#FED000;
+  border-radius:10px;
+  /* box-shadow: 4px 4px  #DBDBDB; */
+  
+  
+
+
+}
+/* #one{
+  color:white;
+  font-size:25px;
+  /* font-weight:bold; 
+  font-style:italic;
+  text-decoration:none;
+  margin-top:0px;
+  
+} */
+#two{
+  /* color:white;
+  font-size:25px;
+  /* font-weight:bold; 
+  font-style:italic;
+  text-decoration:none;
+  margin-top:0px; */
+  display:flex;
+  margin-left:600px;
+  margin-top:100px;
+  padding:30px;
+  width:300px;
+  height:50px;
+  background-color:#FE6A88;
+  border-radius:10px;
+  /* box-shadow: 4px 4px  #DBDBDB; */
+
+}
+a{
+  color:white;
+  font-size:25px;
+   font-weight:bold; 
+  font-style:italic;
+  text-decoration:none;
+  margin-top:0px;
+}
+#three{
+  display:flex;
+  margin-left:600px;
+  margin-top:100px;
+  padding:30px;
+  width:300px;
+  height:50px;
+  background-color:#00DA60;
+  border-radius:10px;
+  /* box-shadow: 4px 4px  #DBDBDB; */
+
+}
+#four{
+  margin-top:50px;
+}
+#onee:hover{
+  box-shadow: 4px 4px  #DBDBDB;
+ 
+}
+#two:hover{
+  box-shadow: 4px 4px  #DBDBDB;
+ 
+}
+#three:hover{
+  box-shadow: 4px 4px  #DBDBDB;
+ 
+}
+
+
